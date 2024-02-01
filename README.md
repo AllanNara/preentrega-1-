@@ -10,7 +10,7 @@ Instalar dependencias para comenzar:
 
     npm install
 
-PD: El proyecto se puede inicializar gracias a la configuración de nuestro _package.json_ (ver apartado de "scripts")
+PD: El proyecto se puede inicializar mediante el siguiente comando gracias a la configuración de nuestro _package.json_ (ver apartado de "scripts"):
 
     npm run dev
 
